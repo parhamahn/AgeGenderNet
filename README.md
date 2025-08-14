@@ -33,7 +33,7 @@ Deep networks can run into **vanishing gradients**—gradients shrink as they mo
 
 Think of it like this: the network wants to pass information backward through many layers, but without shortcuts, it gets tired and loses signal. Residual connections give it a “fast lane” to keep the learning alive.
 
-![test_image_output](https://github.com/user-attachments/assets/1f6bd522-60bd-41a6-9a19-e9359a12676b)
+![test_image_output1](https://github.com/user-attachments/assets/1ad1e647-f351-4b77-9c24-e521604de98e)
 
 ## How It Works (Brief)
 1. The model takes a facial image as input.  
